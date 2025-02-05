@@ -13,8 +13,5 @@
             "hash": "0C6982F6E9A4270968DFDEC2874DC642957BDDBDD55F4517FA013692FFE8E67E"
         }
     },
-    "bin": "pq.exe",
-    "hash": {
-        "mode": "download"
-    }
+    "bin": "pq.exe"
 }
