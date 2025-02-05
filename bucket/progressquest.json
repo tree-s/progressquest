@@ -9,5 +9,8 @@
             "hash": "88a28bc02042ad483991c05afcd31096"
         }
     },
-    "bin": "pq.exe"
+    "bin": "pq.exe",
+    "hash": {
+        "mode": "download"
+    }
 }
