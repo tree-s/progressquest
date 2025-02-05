@@ -4,6 +4,10 @@
     "homepage": "http://progressquest.com",
     "license": "http://progressquest.com/license.txt",
     "architecture": {
+        "64bit": {
+            "url": "http://www.progressquest.com/dl/pq6-4-4.zip#/dl.7z",
+            "hash": "88a28bc02042ad483991c05afcd31096"
+        },        
         "32bit": {
             "url": "http://www.progressquest.com/dl/pq6-4-4.zip#/dl.7z",
             "hash": "88a28bc02042ad483991c05afcd31096"
